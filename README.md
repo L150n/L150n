@@ -72,12 +72,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=L150n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L150n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=L150n&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L150n&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" />
 
 <br/>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=L150n&theme=tokyonight&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=L150n&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -93,14 +93,14 @@
 
 ---
 
-## 🐍 Snake eating my contributions
+## 📦 3D Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L150n/L150n/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L150n/L150n/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/L150n/L150n/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
