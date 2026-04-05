@@ -14,11 +14,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning **Android & Python**
-- 💻 Check out my projects at **[lison.netlify.app](https://lison.netlify.app/)**
-- 📬 Reach me at **lisonsabu@gmail.com**
-- ⚡ *Not a Pro — just a very enthusiastic person*
-
+- 🚀 Mission: Make code that works.
+- 🛠️ Reality: Code works, but I don't know why.
+- 📍 Current State: Googling "how to exit Vim".
 ---
 
 ## 🌐 Connect with Me
