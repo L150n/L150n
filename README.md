@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=L150n&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L150n&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L150n&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L150n&theme=tokyonight" height="165" />
 
 <br/>
 
